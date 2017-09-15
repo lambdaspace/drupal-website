@@ -1,6 +1,6 @@
 # [LambdaSpace](http://www.lambdaspace.gr/) - Drupal8 website for Thessaloniki's Hackerspace
 
-This document assumes you have a development server set up, and able to run a Drupal8 installation.
+This document assumes you have a development server set up and able to run a Drupal8 installation.
 If not [here](https://www.drupal.org/docs/develop/local-server-setup) you can find some guides on how to set up
 a Drupal development environment for your machine.
 
