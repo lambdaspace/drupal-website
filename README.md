@@ -10,3 +10,7 @@ This project uses composer template for Drupal projects [drupal-composer/drupal-
 
 1. [Composer](https://getcomposer.org/) Dependency Manager for PHP
 2. Git (optional but highly recommended)
+
+## Installation
+
+1. git clone the repository or download it from github's user interface.
