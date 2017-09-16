@@ -13,10 +13,10 @@ This project uses composer template for Drupal projects [drupal-composer/drupal-
 
 ## Installation
 
-1. git clone the repository or download it from github's user interface.
+1. Git clone the repository or download it from github's user interface.
 2. cd to the project
 3. Install dependencies with composer "composer install", that will take a while.
-4. Now you can see the drupal installation screen in your browser.
+4. Now you can see the Drupal installation screen in your browser.
 5. In the root of our project there is database file 'db.sql' you can either install Drupal and then import
    the database or import the database and connect it with your Drupal installation.
-6. You should have a working instance of Lambdaspace drupal8 website.
+6. You should have a working instance of LambdaSpace Drupal8 website.
